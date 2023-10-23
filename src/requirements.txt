@@ -1,0 +1,8 @@
+sphinxcontrib-asyncio
+sphinx
+django
+numpy
+sphinx-copybutton
+sphinx-gallery 
+nbsphinx
+sphinxcontrib-images
